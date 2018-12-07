@@ -3,7 +3,7 @@
 
 ---
 
-[Digital Photography Tutorial](DigitalPhotography.md)
+[Digital Photography Tutorial](Digital%20Photography.md)
 
 **Summary:**
 
