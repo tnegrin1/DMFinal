@@ -3,7 +3,7 @@
 
 [README](README.md)
 
-Digital Photography has revolutionized the world of digital multimedia and the way we capture and consume entertainment.  While film still has it's place in the world of photography, digital has introduced an immediacy and convenience that is unrivaled with traditional methods of photography.  To understand the implementation and impact of digital photography, we must first understand how a traditional camera works.\
+Digital Photography has revolutionized the world of digital multimedia and the way we capture and consume entertainment.  While film still has it's place in the world of photography, digital has introduced an immediacy and convenience that is unrivaled with traditional methods of photography.  To understand the implementation and impact of digital photography, we must first understand how a traditional camera works.
 
 A traditional film camera is composed of three elements: the optical (lens), the chemical (film), and the mechanical (shutter/body).
 
