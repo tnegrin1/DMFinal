@@ -11,4 +11,4 @@ This document is a tutorial in digital photography.  The content will cover how 
 
 **Audience:**
 
-I hope this tutorial serves to educate novice photographers in understanding the magic that is happening inside their camera and allow them to make a more educated decision when deciding what method of photography they would like to pursue.
+I hope this tutorial serves to educate novice photographers of any age in understanding the magic that is happening inside their camera and allow them to make a more educated decision when deciding what method of photography they would like to pursue.  Both film and digital have their advantages and disadvantages and it's important for new photographers to know what sets them apart before they commit to one method.
